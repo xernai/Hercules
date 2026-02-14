@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Hercules.Console/Hercules.Console.csproj" />
+  <Project Path="Hercules.Mvc/Hercules.Mvc.csproj" />
+  <Project Path="Hercules.Tests/Hercules.Tests.csproj" />
+  <Project Path="Hercules.WebApi/Hercules.WebApi.csproj" />
+</Solution>
